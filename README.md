@@ -1,6 +1,6 @@
 # English_to_Hinglish_translation-
   
-my code will translation from English text hindi (Hinglish).
+my code will translation from English text to hindi (Hinglish).
 
 you can access my code directly via https://colab.research.google.com/drive/1DOKPzEB6HtMGEEX3_X1RtyCu2IiDjYof#scrollTo=fcBo3pKAQfn3
 
